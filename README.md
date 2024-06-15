@@ -2,16 +2,13 @@
 The Hate Speech Detection project uses machine learning and NLP to automatically detect hate speech in text. It analyzes word usage, sentiment, and context to enhance online safety, filtering harmful content to foster respectful communication.
 
 **Table of Contents**
-- Project Overview
-- Folder Structure
+- Requirement
 - Installation
+- Data
 - Usage
-- Datasets
-- Model Training
-- Evaluation
-- Results
 - Contributing
 - License
+- Acknowledgement
 - Contact
 
 **Requirements**
